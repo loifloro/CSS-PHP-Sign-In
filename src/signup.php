@@ -13,9 +13,11 @@ include("dbconnect.php");
     <title>Registration</title>
     <script src="../js/app.js"></script>
     <link rel="stylesheet" href="../css/style.css">
+    <!-- hello -->
 </head>
 <body>
     <!-- jumbotron -->
+    <!-- loi -->
     <form action="" method="POST">
         <div class="card">
             <div>
