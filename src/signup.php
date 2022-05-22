@@ -17,7 +17,7 @@ include("dbconnect.php");
 </head>
 <body>
     <!-- jumbotron -->
-    loi
+    <!-- loi -->
     <form action="" method="POST">
         <div class="card">
             <div>
