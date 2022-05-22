@@ -12,7 +12,7 @@ include("dbconnect.php");
     <!-- <meta name="color-scheme" content="dark"> --> 
     <title>Registration</title>
     <script src="../js/app.js"></script>
-    <link rel="stylesheet" href="../css/style.css">l.,jk
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
     <!-- jumbotron -->
